@@ -35,6 +35,11 @@ Landing page sederhana menggunakan HTML & CSS. Responsif dan cocok untuk pemula.
 2. Ubah ukuran layar untuk melihat efek responsif
 3. Bisa di-upload ke [GitHub Pages](https://pages.github.com) untuk online
 
+## 🚀 Preview
+
+[🔗 Live Demo via Netlify](https://landing-page-sederhana.netlify.app)
+
+
 ---
 
 ## 👨‍💻 Dibuat oleh
